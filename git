@@ -1,0 +1,54 @@
+mkdir harshi
+cd harshi
+git init 
+vim one.c 
+git add .
+  git status
+git commit -m "   "
+  git config user.name "   "
+  git config user email "  "
+  git log
+ git diff
+
+2nd program
+mkdir harshi
+cd harshi
+git init
+vim one.c
+  git add .
+  git commit -m "  "
+  git branch
+git branch feature branch
+ls
+vim 
+git add 
+git status
+git log
+cat one.c
+  git previous "to see the content in the file"
+  git checkout master
+ cat one.c
+
+   3rd program  
+git branch f-b
+  git status
+vim
+git add-b
+git cjeckout f
+git log
+git stash
+git stash list
+git stash show
+git stash apply
+git stash pop
+git stash list
+
+4th program
+git clone"url"
+
+
+  5th program
+git checkout feature-branch
+  git rebase master
+git add   git push -f f-b
+     
