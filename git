@@ -7,12 +7,13 @@ git add .
 git commit -m "   "
   git config user.name "   "
   git config user email "  "
+git config --global user name.   same 2nd line
   git log
  git diff
 
 2nd program
 mkdir harshi
-cd harshi
+cd harshi                                            git branch f-b|git checkout f-b|git checkout masterr|git merge f-b|git status|git push origin master
 git init
 vim one.c
   git add .
