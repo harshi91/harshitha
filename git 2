@@ -1,0 +1,30 @@
+6 th   
+vim git add  
+git commit -m "custumcommit"
+  
+7th program                                                                                  git checkout master| |
+git tag v1.o
+git tag
+git show v1.0
+git pusg origin v1.0
+
+8th   {git cheery picking|cd   |gitinit
+
+vi alpha.c  |git add |git commit |
+vu beta |git add | git commit|                                                                   |git reflog  git cherry pick id |
+git log
+
+9 th 
+git log
+git cherry picking   [1code]
+git show [2code]
+10 th 
+git log --author="  name" ==after="2024-01-01" --before="2032  "
+same
+11th 
+git log -n
+git log -n1
+git log -n2|
+
+12th  
+git reflog|git rever [2code]""|git log --oneline|
